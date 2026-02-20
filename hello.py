@@ -1,5 +1,5 @@
 #hello.py
 
 #first change
-print("Hello from my first GitHub repo!")
+print("Hello! this is my first GitHub repo!")
 
